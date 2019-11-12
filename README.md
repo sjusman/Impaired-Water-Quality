@@ -1,4 +1,4 @@
-# ImpairedWaterQuality
+# Impaired-Water-Quality
 Project on Analyzing Water Quality across the US
 
 Data Cleaning.ipynb contains the major process of data preprocessing.  
