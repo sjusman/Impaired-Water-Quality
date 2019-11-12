@@ -1,2 +1,9 @@
 # ImpairedWaterQuality
-Therefore, the objective of this project is to assess the prevalence of contaminants that fall below regulatory thresholds and predict “non-detectable” values in the periodic water contaminant reports. The challenge is to decide how to interpret these non-detect values, and they cannot be assumed to be zero. We retrieve reports from the Environmental Working Group website and train the predictor with machine learning techniques. The training data set is a subset of the whole data set which contains only values under the respective minimum reporting limits. Our Random Forest model has a 0.93 R 2 value on the validation data set.
+Project on Analyzing Water Quality across the US
+
+Data Cleaning.ipynb contains the major process of data preprocessing.  
+Prediction.ipynb contains the machine learning process and how we improved the models.  
+Sample.ipynb contains the small sample of this project including a small sample data and the improvement of random forest models on this data.  
+Web Scraping.ipynb contains the whole process of scraping contaminants data from the Environmental Working Group website.  
+contaminants.csv contains the small sample of data used in Sample.ipynb  
+
